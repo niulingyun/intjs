@@ -36,6 +36,6 @@
     "underscore": "^1.9.1",
     "uuid": "^3.3.2",
     "winston": "^2.4.3",
-    "xmlhttprequest": "^1.8.0"
+    "xmlhttprequest": "git+https://github.com/niulingyun/node-XMLHttpRequest.git#1.8.1"
   }
 }
